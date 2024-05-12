@@ -1,6 +1,4 @@
 package com.springworks.springbootnewproject.student;
-
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;
